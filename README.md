@@ -184,7 +184,7 @@ contrib/             # Extensions
 
 ## 🤝 Contributing
 
-Found an error or want to improve the curriculum? Contributions are welcome!
+Found an error or want to improve the curriculum? Submit any suggestions or corrections via a github issue on the repository.
 
 ## 📄 License
 
