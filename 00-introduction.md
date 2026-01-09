@@ -4,6 +4,8 @@
 
 PostgreSQL is the world's most advanced open-source relational database. Whether you're a complete beginner or an experienced developer looking to deepen your understanding, this guide will help you through everything from basic SQL to the intricate details of PostgreSQL's source code.
 
+**Author:** Brian Pace
+
 ## What is PostgreSQL?
 
 PostgreSQL (often called "Postgres") is an object-relational database management system (ORDBMS) with over 35 years of active development. It began in 1986 as  at the University of California, Berkeley.
@@ -323,6 +325,11 @@ Chapter 16: 📤 Operations - Export, backup, and manage your database
 You now have the foundation to start your PostgreSQL journey. In the next chapter, we'll install PostgreSQL and write our first queries.
 
 Remember: becoming an expert takes time and practice. Don't rush. Enjoy the learning process, and celebrate each new concept you master.
+
+## License
+
+This curriculum is licensed under **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
+See [`LICENSE`](LICENSE) for details.
 
 ---
 

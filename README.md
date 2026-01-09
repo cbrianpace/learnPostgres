@@ -4,6 +4,8 @@
 
 Welcome to the most comprehensive PostgreSQL learning resource available. This curriculum takes you from absolute beginner to deep internals expert, with hands-on exercises throughout.
 
+**Author:** Brian Pace
+
 ## 📚 Curriculum Overview
 
 ### 🟢 Beginner Level
@@ -183,6 +185,11 @@ contrib/             # Extensions
 ## 🤝 Contributing
 
 Found an error or want to improve the curriculum? Contributions are welcome!
+
+## 📄 License
+
+This curriculum is licensed under **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
+See [`LICENSE`](LICENSE) for details.
 
 ## 📚 Additional Resources
 
